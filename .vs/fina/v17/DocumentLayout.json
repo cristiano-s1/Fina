@@ -1,88 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projetos\\Curso Fullstak\\Fina\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{0A8FF269-2DD3-42FD-9A42-5E6E6ED20B8A}|Fina.Core\\Fina.Core.csproj|c:\\projetos\\curso fullstak\\fina\\fina.core\\requests\\pagedrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A8FF269-2DD3-42FD-9A42-5E6E6ED20B8A}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\requests\\pagedrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A8FF269-2DD3-42FD-9A42-5E6E6ED20B8A}|Fina.Core\\Fina.Core.csproj|c:\\projetos\\curso fullstak\\fina\\fina.core\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A8FF269-2DD3-42FD-9A42-5E6E6ED20B8A}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A8FF269-2DD3-42FD-9A42-5E6E6ED20B8A}|Fina.Core\\Fina.Core.csproj|c:\\projetos\\curso fullstak\\fina\\fina.core\\requests\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A8FF269-2DD3-42FD-9A42-5E6E6ED20B8A}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\requests\\request.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A8FF269-2DD3-42FD-9A42-5E6E6ED20B8A}|Fina.Core\\Fina.Core.csproj|c:\\projetos\\curso fullstak\\fina\\fina.core\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A8FF269-2DD3-42FD-9A42-5E6E6ED20B8A}|Fina.Core\\Fina.Core.csproj|solutionrelative:fina.core\\responses\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Configuration.cs",
-              "DocumentMoniker": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Core\\Configuration.cs",
-              "RelativeDocumentMoniker": "Fina.Core\\Configuration.cs",
-              "ToolTip": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Core\\Configuration.cs",
-              "RelativeToolTip": "Fina.Core\\Configuration.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T23:18:23.33Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PagedRequest.cs",
-              "DocumentMoniker": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Core\\Requests\\PagedRequest.cs",
-              "RelativeDocumentMoniker": "Fina.Core\\Requests\\PagedRequest.cs",
-              "ToolTip": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Core\\Requests\\PagedRequest.cs",
-              "RelativeToolTip": "Fina.Core\\Requests\\PagedRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABNAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T23:16:12.018Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Response.cs",
-              "DocumentMoniker": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Core\\Responses\\Response.cs",
-              "RelativeDocumentMoniker": "Fina.Core\\Responses\\Response.cs",
-              "ToolTip": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Core\\Responses\\Response.cs",
-              "RelativeToolTip": "Fina.Core\\Responses\\Response.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T23:09:10.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Request.cs",
-              "DocumentMoniker": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Core\\Requests\\Request.cs",
-              "RelativeDocumentMoniker": "Fina.Core\\Requests\\Request.cs",
-              "ToolTip": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Core\\Requests\\Request.cs",
-              "RelativeToolTip": "Fina.Core\\Requests\\Request.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T23:09:03.153Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }

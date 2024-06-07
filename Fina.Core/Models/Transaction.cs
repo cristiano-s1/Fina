@@ -6,10 +6,12 @@ namespace Fina.Core.Models
     {
         public long Id { get; set; }
         public string Title { get; set; } = string.Empty;
+
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
         public DateTime? PaidOrReceiveAt { get; set; }
 
         public ETransactionType Type { get; set; } = ETransactionType.Withdraw;
+        public decimal Amount { get; set; }
 
         public long CategoryId { get; set; }
         public Category Category { get; set; } = null!;
