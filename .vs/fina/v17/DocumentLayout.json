@@ -1,12 +1,88 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Projetos\\Curso Fullstak\\Fina\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417C4070-8DA5-4640-870B-A1EFE1BAD71D}|Fina.Api\\Fina.Api.csproj|c:\\projetos\\curso fullstak\\fina\\fina.api\\endpoints\\categories\\getbyidcategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417C4070-8DA5-4640-870B-A1EFE1BAD71D}|Fina.Api\\Fina.Api.csproj|solutionrelative:fina.api\\endpoints\\categories\\getbyidcategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417C4070-8DA5-4640-870B-A1EFE1BAD71D}|Fina.Api\\Fina.Api.csproj|c:\\projetos\\curso fullstak\\fina\\fina.api\\endpoints\\categories\\deletecategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417C4070-8DA5-4640-870B-A1EFE1BAD71D}|Fina.Api\\Fina.Api.csproj|solutionrelative:fina.api\\endpoints\\categories\\deletecategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417C4070-8DA5-4640-870B-A1EFE1BAD71D}|Fina.Api\\Fina.Api.csproj|c:\\projetos\\curso fullstak\\fina\\fina.api\\endpoints\\categories\\getallcategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417C4070-8DA5-4640-870B-A1EFE1BAD71D}|Fina.Api\\Fina.Api.csproj|solutionrelative:fina.api\\endpoints\\categories\\getallcategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417C4070-8DA5-4640-870B-A1EFE1BAD71D}|Fina.Api\\Fina.Api.csproj|c:\\projetos\\curso fullstak\\fina\\fina.api\\endpoints\\categories\\createcategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417C4070-8DA5-4640-870B-A1EFE1BAD71D}|Fina.Api\\Fina.Api.csproj|solutionrelative:fina.api\\endpoints\\categories\\createcategoryendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetByIdCategoryEndpoint.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Api\\Endpoints\\Categories\\GetByIdCategoryEndpoint.cs",
+              "RelativeDocumentMoniker": "Fina.Api\\Endpoints\\Categories\\GetByIdCategoryEndpoint.cs",
+              "ToolTip": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Api\\Endpoints\\Categories\\GetByIdCategoryEndpoint.cs",
+              "RelativeToolTip": "Fina.Api\\Endpoints\\Categories\\GetByIdCategoryEndpoint.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:29:24.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllCategoryEndpoint.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Api\\Endpoints\\Categories\\GetAllCategoryEndpoint.cs",
+              "RelativeDocumentMoniker": "Fina.Api\\Endpoints\\Categories\\GetAllCategoryEndpoint.cs",
+              "ToolTip": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Api\\Endpoints\\Categories\\GetAllCategoryEndpoint.cs",
+              "RelativeToolTip": "Fina.Api\\Endpoints\\Categories\\GetAllCategoryEndpoint.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:22:09.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteCategoryEndpoint.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Api\\Endpoints\\Categories\\DeleteCategoryEndpoint.cs",
+              "RelativeDocumentMoniker": "Fina.Api\\Endpoints\\Categories\\DeleteCategoryEndpoint.cs",
+              "ToolTip": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Api\\Endpoints\\Categories\\DeleteCategoryEndpoint.cs",
+              "RelativeToolTip": "Fina.Api\\Endpoints\\Categories\\DeleteCategoryEndpoint.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:11:27.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreateCategoryEndpoint.cs",
+              "DocumentMoniker": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Api\\Endpoints\\Categories\\CreateCategoryEndpoint.cs",
+              "RelativeDocumentMoniker": "Fina.Api\\Endpoints\\Categories\\CreateCategoryEndpoint.cs",
+              "ToolTip": "C:\\Projetos\\Curso Fullstak\\Fina\\Fina.Api\\Endpoints\\Categories\\CreateCategoryEndpoint.cs",
+              "RelativeToolTip": "Fina.Api\\Endpoints\\Categories\\CreateCategoryEndpoint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:50:16.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
